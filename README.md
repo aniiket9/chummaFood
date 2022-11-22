@@ -1,2 +1,2 @@
 # chummaFood
-Created with CodeSandbox
+A sample Food Menu App built using React
